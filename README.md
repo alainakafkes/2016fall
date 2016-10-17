@@ -14,4 +14,4 @@ Week 7 (11/2): TBD
 
 Week 8 (11/9): TBD
 
-Week 9 (11/16): TBD
+Week 9 (11/16): Introduction to Git Workflow -> Wildhacks!
